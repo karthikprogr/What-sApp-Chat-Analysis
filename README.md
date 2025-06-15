@@ -4,7 +4,7 @@
 The WhatsApp Chat Analyzer is a simple web app built using Python and Streamlit. It lets users upload their WhatsApp chat files (.txt or .zip) and shows useful insights like total messages, most active users, word usage, emojis, and activity timelines. The app turns chat data into easy-to-read charts and summaries, helping users understand their messaging patterns in a fun and visual way.
 
 
-![Crime Rate Prediction Banner](https://github.com/karthikprogr/Car-Price-Prediction/blob/main/static/Screenshot%202025-06-06%20140706.png)
+![Crime Rate Prediction Banner]([https://github.com/karthikprogr/Car-Price-Prediction/blob/main/static/Screenshot%202025-06-06%20140706.png](https://github.com/karthikprogr/What-sApp-Chat-Analysis/blob/main/Screenshot%202025-06-15%20193452.png))
 
 A powerful and interactive web app to analyze WhatsApp chat exports. 
 Built using Streamlit, Pandas, Matplotlib, Seaborn, and WordCloud, this project allows users to upload `.txt` or `.zip` WhatsApp chat files and gain deep insights into group or individual communication patterns.
